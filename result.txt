@@ -1,0 +1,55 @@
+
+ All accuracy : 53.44%
+ Success@1 : 0.6086
+ Success@5 : 0.8340
+ Success@10 : 0.8943
+ x_norm diff: 0.0002235910770550348
+ h_nrom diff: 1.0483329612582097
+ All accuracy : 0.10%
+ Success@1 : 0.0011
+ Success@5 : 0.0106
+ Success@10 : 0.0149
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 5.020606174679296
+ All accuracy : 0.10%
+ Success@1 : 0.0021
+ Success@5 : 0.0064
+ Success@10 : 0.0128
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 4.935143441733326
+ All accuracy : 52.24%
+ Success@1 : 0.5730
+ Success@5 : 0.7607
+ Success@10 : 0.8431
+ x_norm diff: 0.3415363701616615
+ h_nrom diff: 4.1450718929707895
+ All accuracy : 0.29%
+ Success@1 : 0.0043
+ Success@5 : 0.0128
+ Success@10 : 0.0160
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 4.856645396206089
+ All accuracy : 0.00%
+ Success@1 : 0.0000
+ Success@5 : 0.0032
+ Success@10 : 0.0064
+ x_norm diff: 0.49355104190202254
+ h_nrom diff: 5.595571804595245
+ All accuracy : 0.86%
+ Success@1 : 0.0106
+ Success@5 : 0.0319
+ Success@10 : 0.0501
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 4.786858436473835
+ All accuracy : 86.00%
+ Success@1 : 0.8296
+ Success@5 : 0.8882
+ Success@10 : 0.9095
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 4.896299140908231
+ All accuracy : 0.38%
+ Success@1 : 0.0053
+ Success@5 : 0.0234
+ Success@10 : 0.0319
+ x_norm diff: 0.4501619393172293
+ h_nrom diff: 4.9287067442589505
